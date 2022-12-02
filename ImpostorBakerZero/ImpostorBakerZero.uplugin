@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"Version": 2,
+	"VersionName": "1.2",
+	"FriendlyName": "ImpostorBakerZero",
+	"Description": "Generates a variety of Impostors for use as distant mesh LODs.",
+	"Category": "ZeroLOD",
+	"CreatedBy" : "Epic Games, Inc.",
+	"CreatedByURL" : "http://epicgames.com",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"Installed": false,
+	"Plugins": [                       
+		{                              
+		"Name": "BlueprintMaterialTextureNodes",    
+		"Enabled": true                
+		}                              
+	]                    
+}

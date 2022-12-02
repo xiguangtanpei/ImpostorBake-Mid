@@ -1,0 +1,7 @@
+ImpostorBaker   是 之前插件我修改，加入了相机两种形式 
+
+ImpostorBakeZero 是想修改名，防止和之前插件冲突， 迁移完成没有重定向完成，需要在 指定 材质参数
+
+Tools 这个 做了一个基于Zero 项目的 工具，代码迁移到了工程中， 注意使用前， 直接拷贝 进入相机就好，同时 
+
+需要提前打开插件  BlueprintMaterialTextureNodes
